@@ -1,5 +1,5 @@
 $(document).ready(function(e){
-    $('.copyright').html('©2022 <i class="fa-fw fas fa-heartbeat card-announcement-animation cc_pointer"></i> By Lymoyu1');
+    $('.copyright').html('©2022 <i class="fa-fw fas fa-heartbeat card-announcement-animation cc_pointer"></i> By Lymoyu');
 })
 
 $(document).ready(function(e){
